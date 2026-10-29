@@ -1,6 +1,6 @@
 ﻿using Tyuiu.MarkovaVO.Sprint1.Task2.V8.Lib;
 
-namespace Tyuiu.MarkovaVO.Sprint1.Task2.V8.Text
+namespace Tyuiu.MarkovaVO.Sprint1.Task2.V8.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -10,9 +10,9 @@ namespace Tyuiu.MarkovaVO.Sprint1.Task2.V8.Text
         {
             DataService ds = new DataService();
             int a = 2;
-            int b = 3;
+            int b = 5;
             var res = ds.CalculatePerimetr(a, b);
-            Assert.AreEqual(10, res);
+            Assert.AreEqual(14, res);
         }
     }
 }

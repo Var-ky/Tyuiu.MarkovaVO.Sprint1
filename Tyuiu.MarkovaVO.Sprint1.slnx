@@ -10,8 +10,8 @@
     <Project Path="Tyuiu.MarkovaVO.Sprint1.Task1.V16/Tyuiu.MarkovaVO.Sprint1.Task1.V16.csproj" Id="e2d4deaa-da86-4486-b6d3-493e0441ec15" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.MarkovaVO.Sprint1.Task2.V8.Lib/Tyuiu.MarkovaVO.Sprint1.Task2.V8.Lib.csproj" Id="c4361ae4-e726-4e88-a84f-1a084a0c7d0e" />
-    <Project Path="Tyuiu.MarkovaVO.Sprint1.Task2.V8.Text/Tyuiu.MarkovaVO.Sprint1.Task2.V8.Test.csproj" Id="dc099157-736d-4878-90cd-21db06a02578" />
+    <Project Path="Tyuiu.MarkovaVO.Sprint1.Task2.V8.Lib/Tyuiu.MarkovaVO.Sprint1.Task2.V8.Lib.csproj" Id="ef6af770-40ff-4b02-91e1-99540a387f9c" />
+    <Project Path="Tyuiu.MarkovaVO.Sprint1.Task2.V8.Test/Tyuiu.MarkovaVO.Sprint1.Task2.V8.Test.csproj" Id="573a62de-4654-4f0a-8eb5-753cdab5eddc" />
     <Project Path="Tyuiu.MarkovaVO.Sprint1.Task2.V8/Tyuiu.MarkovaVO.Sprint1.Task2.V8.csproj" Id="82cce813-84ed-4cc9-8ef8-a90757c344ae" />
   </Folder>
   <Folder Name="/Task3/" />
