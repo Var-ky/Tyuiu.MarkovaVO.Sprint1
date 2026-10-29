@@ -23,12 +23,11 @@ namespace Tyuiu.MarkovaVO.Sprint1.Task2.V8
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                           *");
             Console.WriteLine("******************************************************************************");
-
+            
             int a, b;
 
             Console.WriteLine("введите значение a:");
             a = Convert.ToInt32(Console.ReadLine());
-
             Console.WriteLine("введите значение b:");
             b = Convert.ToInt32(Console.ReadLine());
 
